@@ -2,6 +2,9 @@
 Instructions for Running the pipeline:
 ---------------------------------------------------------------
 
+![exp3Demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bfb2d983-9ce2-4f44-91c1-b592c0dbfc39)
+
+
 
 1. Qualtrics for recruitment:
 - Prolific to 
