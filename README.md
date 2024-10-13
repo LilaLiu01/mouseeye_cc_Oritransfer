@@ -21,6 +21,10 @@ https://run.pavlovia.org/Sean2001/mouseeye_cc_exp3/?participant=${e://Field/Part
 - Completed: https://app.prolific.com/submissions/complete?cc=C1DJ0J3N
 - Incomplete: https://umn.qualtrics.com/jfe/form/SV_eX2X12WKLn0nWu2
 
+## Links to Previous Experiments:
+
+- [Experiment 1 GitHub Repository](https://github.com/LilaLiu01/mouseeye_cc_intactvision)
+- [Experiment 2 GitHub Repository](https://github.com/LilaLiu01/mouseeye_cc_transfer)
 
 ---------------------------------------------------------------
 End of README.txt
